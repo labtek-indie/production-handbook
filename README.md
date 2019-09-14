@@ -16,13 +16,13 @@ Penjelasan besar terkait dengan scrum flow kami bisa dilihat di video link berik
 
 Flow dimulai dari:
 
-1. Prioritas Job Story : 
+### 1. Prioritas Job Story : 
 
 Product Owner melakukan prioritas terhadap job story yang nantinya 
 dikerjakan dalam 1-2 hari dalam masa sprint. Prioritas ini biasanya dilakukan pada saat melakukan 
 SPM (Sprint Planning Meeting).
 
-2. Set Job Story : 
+### 2. Set Job Story : 
 
 Dalam kegiatan set job story, setelah job story di import ke bagian gitlab issue maka proses selanjutnya
 Scrum Master menyusun jadwal terkait dengan job story yang nantinya akan dijadikan todo dalam 2 hari kedepan. 
