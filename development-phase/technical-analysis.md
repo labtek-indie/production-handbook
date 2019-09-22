@@ -104,14 +104,14 @@ Adapun uraian 4 (empat) kegiatan di atas dijelaskan pada rincian berikut ini:
 
  ### Hari Keempat - Penyusunan Rekomendasi
 
- 1. Anggota :
+1. Anggota :
     - Client yang memiliki project
     - Tim IT Client yang nantinya menangani masalah teknologi
     - Lead Technical Analisis
     - Product Owner
     - Asisten Technical Analisis (opsional dengan mempertimbangkan kebutuhan)
 2. Agenda :
-  - Menyampaikan hasil rekomendasi dari proses Teknikal Analisis
+    - Menyampaikan hasil rekomendasi dari proses Teknikal Analisis
 3. Tempat : 
     - Menyeseuaikan dengan kondisi client
 4. Waktu  : 
