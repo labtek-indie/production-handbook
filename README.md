@@ -2,10 +2,18 @@
 
 Development handbook
 
+## Process Development
+
+1. ID - In Depth Interview
+2. CC - Co Creation
+3. DS - Design Sprint
+4. [TA - Technical Analysis](development-phase/technical-analysis.md)
+5. SS - Scrum Sprint
+6. UT - Usability Testing
+
 ## Pengetahuan Umum
 
 ### 1. GitLab
-
 
 
 ### 2. Markdown Syntaks
@@ -20,6 +28,7 @@ industri software development untuk melakukan formating penulisan dokumen
 > 1. Penjelasan Video : https://www.youtube.com/watch?v=9V1sXiFUHVI
 > 2. Link referensi belajar : https://www.markdownguide.org/
 > 3. Ebook : https://www.markdownguide.org/book
+
 
 ## Scrum Flow
 
@@ -56,8 +65,9 @@ SPM (Sprint Planning Meeting).
 
 ### 2. Set Job Story dan Pembagian Pekerjaan: 
 
-Dalam kegiatan set job story, setelah job story di import ke bagian gitlab issue maka proses selanjutnya
-Scrum Master menyusun jadwal terkait dengan job story yang nantinya akan dijadikan todo dalam 2 hari kedepan. 
+Dalam kegiatan set job story, setelah job story di import ke bagian gitlab issue maka proses 
+selanjutnya Scrum Master menyusun jadwal terkait dengan job story yang nantinya akan dijadikan todo 
+dalam 2 hari kedepan. 
 
 Tentunya penyusunan jadwal job story juga sudah di set juga tim SDT (scrum development team) nya yang 
 ditugaskan untuk mengerjakan job story tersebut.
@@ -121,9 +131,10 @@ pun dapat di minimalisir seminim mungkin.
 
 ### 5. Update Task Job Story
 
-Ketika tim SDT selesai membuat task, maka akan ada history commentar yang memention terhadap job story
-yang di mention. Merupakan tugas scrum master untuk melakukan update informasi task pada bagian description
-sehingga informasi secara keseluruhan terkait dengan job story dapat di capture dengan lengkap.
+Ketika tim SDT selesai membuat task, maka akan ada history commentar yang memention terhadap job 
+story yang di mention. Merupakan tugas scrum master untuk melakukan update informasi task pada 
+bagian description sehingga informasi secara keseluruhan terkait dengan job story dapat di capture 
+dengan lengkap.
 
 > **Notes**
 > 
