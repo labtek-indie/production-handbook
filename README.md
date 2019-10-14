@@ -37,7 +37,7 @@ Gambar umum sprint framework yang terdapat pada Labtek Indie
 
 1. [Kick Off dan Sprint Planning](sprint-planning.md)	: Dilakukan sebelum sprint
 2. [Daily Scrum](daily-sprint.md)		                  : Day to day pengerjaan (design/scrum) sprint
-3. Daily Standup	  : Update status masing-masing individu
+3. [Daily Standup](daily-standup.md)	                : Update status masing-masing individu
 4. Daily Review		  : Dilakukan setiap dua hari sekali untuk review daily
 6. Sprint Review	  : Review yang dilakukan di akhir sprint
 7. Retrospective	  : Dilakukan setelah sprint review
