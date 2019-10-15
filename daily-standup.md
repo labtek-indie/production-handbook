@@ -1,5 +1,14 @@
 # Daily Standup
 
+**Daftar Isi**
+
+1. [Daily Standup](#daily-standup)
+2. Checklist Scrum Master
+
+<a name="daily-standup"></a>
+
+## Daily Standup
+
 ### Waktu dan Tempat
 
 Setelah pelaksanaan daily sprint dilakukan selama 30 menit
@@ -22,10 +31,19 @@ Setelah pelaksanaan daily sprint dilakukan selama 30 menit
 
 ### Format pelaporan
 
+Gunakan format ini untuk mengumpulkan informasi yang disampaikan oleh SDT pada saat daily standup,
+format pengisian did, will do dan obstacle harus memenuhi kriteria sebagai berikut:
+
+1. Menyebutkan nama job story yang sedang dikerjakan
+2. 
+
 ```
+Nama    :
+Tanggal : YYYY-MM-DD
+Spent   : ... jam
+
 **Did**
 
--
 -
 -
 
@@ -33,12 +51,9 @@ Setelah pelaksanaan daily sprint dilakukan selama 30 menit
 
 -
 -
--
-
 
 **Obstacle**
 
--
 -
 -
 ```
@@ -50,3 +65,12 @@ Setelah pelaksanaan daily sprint dilakukan selama 30 menit
 ### Artefact
 
 - Scrum Master mencatat pelaporan dari masing-masing SDT
+
+## Scrum Master
+
+Hal-hal yang diperlu dilakukan oleh Scrum Master pada saat melakukan daily standup sebagai berikut:
+
+1. Memimpin rapat daily standup setiap harinya
+2. Memastikan tim datang tepat waktu, apabila ada yang terlambat scrum master dapat memberikan teguran
+   kepada tim SDT agar datang / hadir tepat pada waktunya
+3. Mencatat pelaporan tim SDT ke dalam airtable yang sudah disiapkan 

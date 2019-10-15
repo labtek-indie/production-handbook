@@ -2,6 +2,14 @@
 
 Merupakan kegiatan proses pengerjaan software development oleh scrumt development tim
 
+**Daftar Isi**
+
+1. [Pre Daily Sprint](#pre-daily-sprint)
+2. [Daily Sprint](#daily-sprint)
+3. [Checklist Scrum Master](#checklist-scrum-master)
+
+<a name="pre-daily-sprint"></a>
+
 ## Pre Daily Sprint
 
 1. Wajib sebelum pelaksanaan daily sprint 1 hari sebelumnya terjadi komunikasi yang intens
@@ -12,6 +20,8 @@ Merupakan kegiatan proses pengerjaan software development oleh scrumt developmen
 2. Komunikasi ini dimaksudkan untuk menjalin rasa kesepahaman bersama tentang tugas dan tanggung
    jawabnya masing-masing
 
+<a name="daily-sprint"></a>
+
 ## Daily Sprint
 
 ### Rambu - Rambu
@@ -19,7 +29,8 @@ Merupakan kegiatan proses pengerjaan software development oleh scrumt developmen
 - 5 jam / hari untuk untuk pengerjaan kegiatan masing-masing individu dalam daily scrum
   - Bisa koordinasi/diskusi ke masing-masing individu
   - Mengerjakan task
-- wajib 1 jam / hari  (jam 12 - 13 siang) - wajib untuk melakukan interaksi kepada orang lain dalam daily scrum di SLACK
+- wajib 1 jam / hari  (jam 12 - 13 siang) - wajib untuk melakukan interaksi kepada orang lain dalam 
+  daily scrum di SLACK
 - mengerjakan task sesuai dengan prioritas due date
 - Wajib menggunakan SLACK  dalam berinteraksi tidak ada jalur chat lain
 
@@ -168,3 +179,7 @@ Merupakan kegiatan terkahir untuk melakukan closing task dan update spend time
 > 
 > 1. Role : SDT
 > 2. Penjelasan Video : https://www.youtube.com/watch?v=NNtqAZEFyMQ
+
+<a name="checklist-scrum-master"></a>
+
+## Checklist Scrum Master

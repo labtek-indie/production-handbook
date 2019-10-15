@@ -1,0 +1,16 @@
+image: node:8-alpine
+cache:
+  paths:
+  - vendor/
+
+pages:
+  image: purwandi/docker-images:php.7.3-fpm-alpine
+  stage: deploy
+  script:
+  - chmod +x ./script.sh
+  - ./script.sh
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

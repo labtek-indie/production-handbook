@@ -1,1 +1,5 @@
 .DS_Store
+vendor
+composer.json
+composer.lock
+public

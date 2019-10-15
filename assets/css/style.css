@@ -1,0 +1,49 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+tt, code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+blockquote {
+  margin: 0;
+}
+
+a,
+a:hover {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.container {
+  width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.markdown-body {
+  padding: 45px;
+  border: 0;
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  border: 1px solid #ddd;
+  border-top: 0;
+}
+
+.markdown-title {
+  padding: 8px 16px;
+  display: flex;
+  margin: 40px 0 0 auto;
+  background-color: #f6f8fa;
+  border: 1px solid #d1d5da;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+input[type="checkbox"] {
+  margin: 0 .2em .25em -1.6em;
+  vertical-align: middle;
+}

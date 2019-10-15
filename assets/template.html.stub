@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="id">
+  <head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width">
+     <title>{title} - Bursa Efek Indonesia</title>
+     <link rel="stylesheet" href="assets/css/normalize.css">
+     <link rel="stylesheet" href="assets/css/github-markdown.css">
+     <link rel="stylesheet" href="assets/css/style.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="markdown-title">{title}</div>
+      <article class="markdown-body">
+        {content}
+
+        <hr />
+        <small>BEI - Build {CI_COMMIT_SHA} at {DATE}</small>
+      </article>  
+    </div>
+    <script>
+      $(function(){
+        $('li input').parent().css('list-style-type', 'none');
+      });
+    </script>
+  </body>
+</html>
