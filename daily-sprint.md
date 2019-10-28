@@ -12,13 +12,11 @@ Merupakan kegiatan proses pengerjaan software development oleh scrumt developmen
 
 ## Pre Daily Sprint
 
-1. Wajib sebelum pelaksanaan daily sprint 1 hari sebelumnya terjadi komunikasi yang intens
-  tentang penyamaan persepsi:
-  - apa yang di inginkan frontend
-  - data apa saja yang musti disiapkan oleh backend
-  - penyamaan persepsi di antara dua role dengan menggunakan dokumentasi API 
-2. Komunikasi ini dimaksudkan untuk menjalin rasa kesepahaman bersama tentang tugas dan tanggung
-   jawabnya masing-masing
+* Wajib sebelum pelaksanaan daily sprint 1 hari sebelumnya terjadi komunikasi yang intens tentang penyamaan persepsi:
+  * apa yang di inginkan frontend
+  * data apa saja yang musti disiapkan oleh backend
+  * penyamaan persepsi di antara dua role dengan menggunakan dokumentasi API 
+* Komunikasi ini dimaksudkan untuk menjalin rasa kesepahaman bersama tentang tugas dan tanggung jawabnya masing-masing
 
 <a name="daily-sprint"></a>
 

@@ -45,7 +45,7 @@ function parser ($directory, $path) {
     $content = file_get_contents($file);
     $text    = $converter->convertToHtml($content);
     $text    = str_replace(
-      ['{content}', 'md', '{title}', '{DATE}'], 
+      ['{content}', 'md', '{title}', '{DATE}', '{CI_COMMIT_SHA}'], 
       [$text, 'html', basename($file), date('d F Y H:i:s')], 
       $template
     );
