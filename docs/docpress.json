@@ -8,9 +8,5 @@
     "plugins": {
       "decorate": {}
     }
-  },
-  "googleAnalytics": {
-    "id": "UA-70062028-1",
-    "domain": "rscss.io"
   }
 }

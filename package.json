@@ -15,7 +15,6 @@
   },
   "homepage": "https://gitlab.com/knods/handbook#readme",
   "devDependencies": {
-    "docpress": "0.8.0",
-    "vuepress": "^1.2.0"
+    "docpress": "0.8.0"
   }
 }

@@ -6,10 +6,10 @@ cache:
 pages:
   stage: deploy
   script:
-  - npm install -g docpress
-  - docpress build
+  - npm install
+  - ./node_modules/.bin/docpress build
   - mkdir public
-  - cp docpress/* public/
+  - cp _docpress/* public/
   artifacts:
     paths:
     - public
