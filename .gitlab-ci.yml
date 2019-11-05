@@ -4,7 +4,6 @@ cache:
   - vendor/
 
 pages:
-  image: node:alpoine
   stage: deploy
   script:
   - npm install -g docpress
