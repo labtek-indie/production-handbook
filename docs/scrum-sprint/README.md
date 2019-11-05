@@ -2,28 +2,20 @@
 
 ## Gambaran Umum Proses kerja
 
-**Kick Off dan Sprint Planning**
+Pelaksanaan scrum di Labtek Indie secara garis besar dapat dilihat pada gambar dibawah ini:
 
-Merupakan kegiatan yang dilakukan sebelum pelaksanaan daily sprint digunakan 
+![Overview Sprint Framework](./assets/overview.jpeg)
 
-**Daily Scrum**
+* [Kick Off dan Sprint Planning](sprint-planning-meeting.md)
+* [Daily Scrum](daily-scrum.md)
+* [Daily Scrum](daily-scrum.md)
+* [Sprint Review Meeting](sprint-review-meeting.md)
+* [Restrospective Meeting](retrospective-meeting.md)
 
-Terdiri dari dua buah kegiatan 
 
-- Daily Standup
-- Daily Review
-
-Pos
+Draft
 
 - Komunikasi
 - Sadar Diri
 - Kolaborasi
 - Validasi
-
-**Sprint Review**
-
-
-**Retrospective**
-
-## Gambaran Umum Jam Kerja
-

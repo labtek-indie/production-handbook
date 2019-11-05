@@ -83,6 +83,8 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
   - menentukan tools dan software yang nantinya digunakan
   - menentukan plan dalam job story yang nantinya akan di deliver per harinya
 
+![Estimasi Kasar](./assets/spm-estimasi-kasar.png)
+
 **Estimasi Kasar**
 
 - Pada saat melakukan kegiatan estimasi waktu pengerjaan, estimas di kelompokkan sesuai dengan role 

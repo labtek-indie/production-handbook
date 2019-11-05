@@ -2,6 +2,8 @@
 
 Merupakan kegiatan proses pengerjaan software development oleh scrumt development tim
 
+![Overview Daily Scrum](./assets/flow-daily-scrum.png)
+
 ## Pre Daily Sprint
 
 Sebelum mulai mengerjakan job story:
@@ -31,8 +33,21 @@ Sebelum mulai mengerjakan job story:
 - Kolaborasi antara backend dan frontend dapat ditulis melalui media dokumentasi API pada comment job
   story atau menggukan PostMan
 
+**Job Story**
 
-Komunikasi ini dimaksudkan untuk menjalin rasa kesepahaman bersama tentang tugas dan tanggung jawabnya masing-masing
+| Template Job Story | Gitlab New Issue |
+| ------------------ | ---------------- |
+| ![Template job story](./assets/template-job-story.png) | ![Gitlab Issue](./assets/template-job-story-issue.png) |
+
+Sebisa mungkin acceptance criteria pada job story dibuat lebih detail guna memudahkan tim untuk
+menterjemahkan sesuai dengan role masing-masing. Setidaknya acceptance kriteria pada job story memililiki
+komponen sebagai berikut :
+
+- Terdapat field : menjelaskan field-field apa saja yang dibutuhkan (username, password)
+- Terdapat link : menjelaskan link-link apa saja yang dibutuhkan (link cancel, link pagination)
+- Terdapat tombol button : menjelaskan button apa saja yang dibutuhkan (button simpan, edit, hapus)
+- Fungsional requirement : menjelaskan bagaimana behaviour sistem yang seharusnya berjalan
+
 
 ## Daily Sprint
 
@@ -58,7 +73,6 @@ Komunikasi ini dimaksudkan untuk menjalin rasa kesepahaman bersama tentang tugas
 Setelah pelaksanaan daily sprint dilakukan selama 30 menit
 
 **Peserta**
-
 
 - Product Owner
 - Scrum Master
@@ -105,6 +119,32 @@ Spent   : ... jam
 
 ## Daily Review
 
+Dilakukan minimal setiap 2 (hari sekali) pada saat daily scrum berjalan. Hal-hal yang nantinya akan 
+dilakukan pada saat daily scrum yakni:
+
+**Peserta**
+
+- QA/QC
+- Product Owner
+- Scrum Master
+- Scrum Development TIm
+
+**Agenda**
+
+- Scrum Master memastikan semua tim hadir dalam setiap daily review
+- Scrum Master memberikan overview terkait job story yang nantinya akan di review
+- Product Owner mempresentasikan hasil yang sudah dicapai selama tenggang waktu 2 hari tersebut kepada
+  QA/QC untuk dilakukan review berdasarkan acceptance criteria dan profesional opinion 
+- Scrum Master mencatat masukan yang diberikan oleh QA/QC untuk ditindaklanjuti oleh tim
+
+Untuk itu seluruh tim wajib memastikan pekerjaan job story yang akan direview harus:
+
+- SDT mengerjakan job story sesuai acceptance criteria
+- Scrum Master memastikan tentang deliverabilitas sesuai dengan perencanaan sewaktu SPM dapat di
+  implementasikan
+- Product Owner memastikan hasil pekerjaan yang di kerjakan oleh tim SDT sudah sesuai dengan acceptance
+  criteria
+
 ## Checklist Scrum Master
 
 - Memastikan seluruh tim ikut hadir dalam proses daily standup dan daily review
@@ -112,6 +152,12 @@ Spent   : ... jam
   oleh seluruh tim
 - Mencatat format daily standup yang dilaporkan oleh tim ke dalam format airtable setelah tim melakukan
   report daily standup
-
+- Membuat catatan meeting terkait apa yang sudah dicapai hari ini dan mempostingnya ke dalam slack channel
 
 ## Checklist Product Owner
+
+- Menerima catatan meeting dari scrum master
+- Menginformasikan hasil meeting kepada client terkait jumlah product backlog yang di ambil sesuai 
+  dengan laporan dari scrum master
+- Harus aktif dan merasakan apa yang di deliver oleh tim itu sudah sesuai dengan tujuan yang ingin 
+  di capai (tidak boleh punya perasaan ngak enak)
