@@ -9,7 +9,7 @@ pages:
   - npm install
   - ./node_modules/.bin/docpress build
   - mkdir public
-  - cp _docpress/* public/
+  - cp -rf _docpress/* public/
   artifacts:
     paths:
     - public
