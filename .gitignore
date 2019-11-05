@@ -3,3 +3,5 @@ vendor
 composer.json
 composer.lock
 public
+node_modules
+_docpress

@@ -1,0 +1,21 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "Development handbook",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/knods/handbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/knods/handbook/issues"
+  },
+  "homepage": "https://gitlab.com/knods/handbook#readme",
+  "devDependencies": {
+    "docpress": "0.8.0",
+    "vuepress": "^1.2.0"
+  }
+}
