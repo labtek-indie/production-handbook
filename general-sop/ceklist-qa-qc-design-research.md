@@ -4,17 +4,21 @@ Secara umum, ada 4 fase pengecekan, yakni sebelum pekerjaan dilakukan, saat peke
 
 1. Sebelum pekerjaan dilakukan
 Pekerjaan di fase ini meliputi kick off, pembuatan interview guide (untuk in-depth interview) dan testing scenario (untuk usability testing), serta sourcing responden. Hal-hal yang harus dicatat adalah:
-- Kick off: 
+- Kick off dengan klien: 
     + [ ] Tempat dan tanggal pelaksaan kick-off
     + [ ] Peserta pelaksanaan kick-off
-    + [ ] Hal-hal yang dibahas dan harus diperhatikan saat pelaksanaan kegiatan
+    + [ ] Tujuan kegiatan, terutama dari segi bisnis
     + [ ] Tempat dan tanggal pelaksanaan kegiatan yang sudah disepakati dengan klien
-- Pembuatan interview guide / testing scenario
+- Kick off internal: 
+    + [ ] Tempat dan tanggal pelaksaan kick-off internal
+    + [ ] Peserta pelaksanaan kick-off
+    + [ ] Konteks dan detail kegiatan tersampaikan kepada anggota tim   
+- Pembuatan interview guide / testing scenario (deadline: h-1 dari pelakasnaan kegiatan)
     + [ ] Interview guide / testing scenario sudah tertulis di Airtable atau Google Docs
     + [ ] Interview guide / testing scenario sudah sesuai dengan objektif project dan hasil diskusi saat Kick Off
     + [ ] Interview guide / testing scenario sudah dikonfirmasikan dengan klien
     + [ ] Informasi kebutuhan perlengkapan sudah tersedia di Airtable atau Google Docs
-- Sourcing responden
+- Sourcing responden (deadline: h-1 dari pelakasnaan kegiatan)
     + [ ] Perwakilan third party hadir saat kick off
     + [ ] Profil responden sudah diberikan ke third party
     + [ ] Daftar responden beserta detail profil masing-masing sudah tersedia
@@ -27,7 +31,7 @@ Pekerjaan di fase ini meliputi kick off, pembuatan interview guide (untuk in-dep
 - [ ] Ada rekaman audio/video untuk setiap interaksi dengan responden
 - [ ] Ada dokumentasi foto saat wawancara/testing dilakukan untuk setiap responden
 
-3. Saat pembuatan laporan
+3. Saat pembuatan laporan (deadline: h+4 dari pelaksanaan kegiatan)
 - [ ] Google Drive untuk project sudah dibuat
 - [ ] Akses ke Google Drive sudah diberikan ke lead dan co-researcher
 - [ ] Akun YouTube untuk upload rekaman hasil kegiatan sudah diberikan
@@ -37,6 +41,7 @@ Pekerjaan di fase ini meliputi kick off, pembuatan interview guide (untuk in-dep
 - [ ] Hasil observasi sudah ditambahkan dengan keterangan emotion dan frequency oleh co-researcher
 - [ ] Hasil observasi sudah ditambahkan dengan insight yang mengikuti format "needs dari perpsektif user dalam kata kerja aktif" oleh lead researcher
 - [ ] Laporan sudah dipresentasikan ke QA/QC
+- [ ] Laporan berhasil memberikan key insight yang menjawab kebutuhan klien untuk project ini
 - [ ] Laporan sudah direvisi sesuai dengan masukan dari QA/QC
 - [ ] Laporan sudah diupload ke Google Drive
 
