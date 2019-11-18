@@ -2,8 +2,10 @@ Dokumen ini menjelaskan tentang item apa saja yang harus diperiksa oleh QA/QC La
 
 Secara umum, ada 4 fase pengecekan, yakni sebelum pekerjaan dilakukan, saat pekerjaan dilakukan dan saat pembuatan laporan serta setelah laporan dipresentasikan ke klien. Detail untuk setiap fase adalah sebagai berikut:
 
-1. Sebelum pekerjaan dilakukan
+**1. Sebelum pekerjaan dilakukan**
+
 Pekerjaan di fase ini meliputi kick off, pembuatan interview guide (untuk in-depth interview) dan testing scenario (untuk usability testing), serta sourcing responden. Hal-hal yang harus dicatat adalah:
+
 - Kick off dengan klien: 
     + [ ] Tempat dan tanggal pelaksaan kick-off
     + [ ] Peserta pelaksanaan kick-off
@@ -24,14 +26,16 @@ Pekerjaan di fase ini meliputi kick off, pembuatan interview guide (untuk in-dep
     + [ ] Daftar responden beserta detail profil masing-masing sudah tersedia
     + [ ] Teknis tempat dan waktu pertemuan dengan responden sudah disepakati
 
-2. Saat pekerjaan dilakukan
+**2. Saat pekerjaan dilakukan**
+
 - [ ] Akomodasi serta Transportasi untuk lead researcher dan co-researcher/assistant researcher sudah tersedia
 - [ ] Perlengkapan seperti kamera, audio recorder, handphone untuk testing aplikasi mobile, laptop untuk testing aplikasi web, dan sejenisnya sudah tersedia
 - [ ] Jumlah responden yang ditemui sudah sesuai dengan daftar responden
 - [ ] Ada rekaman audio/video untuk setiap interaksi dengan responden
 - [ ] Ada dokumentasi foto saat wawancara/testing dilakukan untuk setiap responden
 
-3. Saat pembuatan laporan (deadline: h+4 dari pelaksanaan kegiatan)
+**3. Saat pembuatan laporan (deadline: h+4 dari pelaksanaan kegiatan)**
+
 - [ ] Google Drive untuk project sudah dibuat
 - [ ] Akses ke Google Drive sudah diberikan ke lead dan co-researcher
 - [ ] Akun YouTube untuk upload rekaman hasil kegiatan sudah diberikan
@@ -45,7 +49,8 @@ Pekerjaan di fase ini meliputi kick off, pembuatan interview guide (untuk in-dep
 - [ ] Laporan sudah direvisi sesuai dengan masukan dari QA/QC
 - [ ] Laporan sudah diupload ke Google Drive
 
-4. Saat presentasi laporan
+**4. Saat presentasi laporan**
+
 - [ ] Tempat dan tanggal pelaksanaan presentasi laporan yang sudah disepakati dengan klien
 - [ ] Principal Consultant mendampingi presentasi laporan
 - [ ] Hasil presentasi didokumentasikan dan dokumentasi tersedia di Google Drive

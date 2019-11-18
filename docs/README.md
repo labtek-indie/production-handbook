@@ -3,6 +3,12 @@
 - [**HANDBOOK**](../README.md)
 - **Ind Depth Interview**
   - [Getting Started](./in-depth-interview/README.md)
+- **Co Creation**
+  - [Checklist QA](./co-creation/ceklist-qa-qc.md)
+  - [Interaksi Lead Researcher](./general-sop/interaksi-lead-client.md)
+- **Design Research**
+  - [Cheklist QA](./design-research/ceklist-qa-qc.md)
+  - [Interaksi Lead Facilitator](./general-sop/interaksi-lead-client.md)
 - **Techincal Analisis**
   - [Getting Started](./technical-analysis/README.md)
 - **Scrum Sprint**

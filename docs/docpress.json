@@ -6,7 +6,11 @@
   ],
   "markdown": {
     "plugins": {
-      "decorate": {}
+      "decorate": {},
+      "task-lists": {
+        "enabled": true,
+        "label": true
+      }
     }
   }
 }
