@@ -5,3 +5,4 @@ composer.lock
 public
 node_modules
 _docpress
+*.pdf
