@@ -8,6 +8,10 @@ Hearth of Software Development
 
 ---
 
+Materi dapat di unduh di http://bit.ly/2qJ7zlY
+
+---
+
 # Agenda
 
 Membahas secara high level:
@@ -727,5 +731,60 @@ Terdapat proyek yang di dalamnya melakukan dua buah pekerjaan design dan develop
 
 ## GitLab Design
 
-- Merupakan salah satu artefak pada 
+- Design merupakan salah satu bentuk artefak yang mendukung proyek pengembangan perangkat lunak
+- Tools yang digunakan untuk membuat design juga bermacam-macam: sketch, figma, adobe xd
+- Untuk melakukan kolaborasi di layanan seperti figma dan adobe xd memiliki fitur untuk melakukan 
+  komentar pada layanan tersebut
 
+---
+
+![Embed Comment](./assets/figma-comment.png)
+
+---
+
+## Namun?
+
+- Ketika memberikan comment kita harus melihat kembali AC di tempat yang lain, semisal klo kita
+  membuat AC di airtable maka kita juga harus membuat airtable
+- Kebijakan menjadi multiple source, karena ketika membuat comment cenderung melihat secara visual
+  tanpa melihat AC dalam satu tempat yang utuh
+- Tidak ada proses versioning pada design yang sudah dibuat sehingga akan sulit membedakan perubahan
+  dari suatu waktu
+- Proses development akan menjadi sulit dilakukan, karena design yang di berikan mungkin terjadi
+  perubahan di figma. Sementara developer tidak setiap hari melakukan pengecekan
+
+---
+
+![Gitlab Design](./assets/gitlab-design.png)
+
+---
+
+## GitLab Design
+
+- Merupakan feature yang terdapat pada masing-masing gitlab issue
+- Aturannya sangat simple
+  - upload design yang sesuai dengan AC
+  - apabila sudah tidak digunakan hapuslah design tersebut
+  - untuk design yang memiliki revisi, maka upload lah dengan nama file yang sama dengan cara begini
+    kita bisa melakukan tracking terhadap revisi
+
+---
+
+![GitLab Design](./assets/gitlab-design-attach.png)
+
+---
+
+![GitLab Design](./assets/gitlab-design-comment.png)
+
+---
+
+![GitLab Design](./assets/gitlab-design-revision.png)
+
+---
+
+# GitLab
+
+- Source code management
+- Issue management
+- Artefak
+- CI CD Pipeline
