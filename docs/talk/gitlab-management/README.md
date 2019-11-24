@@ -19,8 +19,8 @@ Membahas secara high level:
 
 # About Instructor 
 
-- Purwandi
-- QA / QC Labtek Indie
+- Adityo Pratomo (Principal Consultant)
+- Purwandi (QA / QC)
 
 ---
 
@@ -56,7 +56,7 @@ Membahas secara high level:
 - Karena berbagai permasalahan tadi, maka sangat diperlukan sebuah alat yang 
   membantu tim dalam melakukan:
   - management versi `source code`
-  - management tracking history yang terakhir melakukan perubahan
+  - management tracking history `yang` terakhir melakukan perubahan
   - integrasi antara masing-masing developer
 
 ---
@@ -100,15 +100,20 @@ Membahas secara high level:
 
 ## Perintah Umum
 
-Secara umum ketika developer melakukan kolaborasi memiliki 
+Secara umum ketika developer melakukan kolaborasi dengan menggunakan git, akan ada istilah 
 
+- `branch` merupakan istilah untuk mengisolasi `source code` untuk memulai pengerjaan perubahan fitur
 - `commit` merupakan informasi yang diberikan oleh developer untuk menandai perubahan
    yang dibuat itu di fungsikan untuk apa
 - `pull` merupakan perintah untuk mendapatkan perubahan source code yang 
    terupdate dari server git
 - `push` merupakan perintah  untuk mengirim perubahan source code ke server git
+
+---
+
 - `merge` merupakan perintah untuk melakukan merge source code dari developer lain
-- `merge request` atau `pull request` merupakan istilah untuk meminta developer lain    untuk mengaply perubahan source code dari yang telah ia kerjakan
+- `merge request` atau `pull request` merupakan istilah untuk meminta developer lain   
+   untuk mengaply perubahan source code dari yang telah ia kerjakan
 
 ---
 
@@ -211,7 +216,6 @@ memberikan [enter] pada paragraph satu dengan paragrap yang lainnya
 ## Emphasis
 
 ```md
-
 *Italic* diapit dengan 1 karakter asterik
 **Bold** diapit dengan 2 karakter asterik 
 _Underscore_ diapit dengan 1 karakter _
@@ -224,7 +228,6 @@ _Underscore_ diapit dengan 1 karakter _
 ## List dan Unorder List
 
 ```md
-
 Penulisan list juga sangat lah mudah dengan melakukan secara ekplisit
 
 - List pertama
@@ -395,19 +398,6 @@ yang mereka hadapi
 
 ---
 
-## Ada apa dengan Slack dan Chat lain ...
-
-- Sebelum adanya slack dan layanan chat room yang lain semua informasi dan diskusi 
-  terkait dengan penyelesaian proyek di lakukan melalui issue sistem
-- Kembali lagi pada dasarnya chat room seharusnya menjadi alat untuk melakukan
-  diskusi secara santai, bukan dijadikan sebagai diskusi hingga berakhir kepada 
-  sebuah pengambilan keputusan dari sebuah masalah
-- Apabila hal ini dilakukan maka akan terasa sulit untuk melakukan tracking terhadap
-  keputusan yang di ambil pada saat itu karena karakteristik dari chat tidak
-  mengakomodir sebagaimana karakteristik issue
-
----
-
 ## GitLab Issue
 
 Setiap issue yang dibuat pada gitlab akan memiliki beberapa informasi yakni
@@ -470,15 +460,87 @@ untuk melakukan tackling issue menjadi lebih mudah.
 
 ---
 
+# Penerapan di Labtek
+
+- Kami mempercayakan proses development pada freelancer.
+- Freelancer yang mengerjakan proyek tidak lah akan selalu sama
+- Formating itu perlu kami lakukan untuk menstandarkan format penulisan  informasi sehingga
+  siapun yang nantinya bekerja dengan labtek akan memiliki experience yang sama
+
+---
+
+## Formating Story
+
+```md
+## Job Stories
+
+[Obyektir job stories/tujuan yang ingin dicapai]
+
+## Acceptence Criteria
+
+**Terdapat field atau informasi:**
+
+- [ ] username [ganti aku]
+- [ ] password  [ganti aku]
+- [ ] ... [ganti aku]
+
+**Terdapat link**
+
+- [ ] batal yang apabila di klik akan menuju ke halaman berikutnya  [ganti aku]
+- [ ] ... [ganti aku]
+```
+
+---
+
+```md
+**Terdapat tombol button**
+
+- [ ] simpan yang apabila di klik akan menyimpan ke dalam sistem  [ganti aku]
+- [ ] ... [ganti aku]
+
+**Fungsional requirement**
+
+- [ ] Tidak dapat ...  [ganti aku]
+- [ ] Dapat ...  [ganti aku]
+- [ ] Apabila disimpan maka data akan tersimpan dalam database  [ganti aku]
+- [ ] Dapat menerima email ... [ganti aku]
+- [ ] ... [ganti aku]
+```
+
+---
+
+## Formating Bug
+
+```md
+## Deskripsi issue
+
+[Tidak bisa melakukan login]
+
+## Behaviour seharusnya
+
+[Saya dapat logn]
+
+## Langkah-langkah kenapa issue ini muncul
+
+1. [Step 1]
+2. [Step 2]
+3. [Step 4]
+
+## Screenshoot masalah yang terjadi
+
+[Upload screenshoot masalah yang terjadi]
+```
+
+
+---
+
 ## Mari Praktik Label
 
 - Membuat issue template yang terdiri dari
   - story
   - bug
-- Membuat issue dengan cara memilih template yang tadinya sudah dibuat:
-  - story : user bisa login
-  - story : user bisa mendaftar
-  - bug : user tidak bisa login karena email tidak terdaftar
+- Membuat issue dengan cara memilih template yang tadinya sudah dibuat
+- Issue yang dibuat akan mengatasi masalah "Aplikasi Hotel Management System"
 
 ---
 
@@ -552,7 +614,7 @@ yang ada, contoh dari list label:
 
 ## Interaksi Scrum Development
 
-- Yang perlu dilakukan oleh tim development, yakni se aktif mungkin untuk berkomunikasi menggunakan 
+- Yang perlu dilakukan oleh tim development, yakni se-aktif mungkin untuk berkomunikasi menggunakan 
   gitlab issue pada saat proyek berjalan
 - Gunakan tools yang tepat di saat yang tepat:
   - gunakan gitlab issue untuk mencatat dan mendiskusikan terkait dengan penyelesaian issue, karena
@@ -567,6 +629,19 @@ yang ada, contoh dari list label:
   ketika melakukan daily review maupun user acceptance test
 - Ketika memberikan komentar pada gitlab issue, sangat di rekomendasikan untuk melakukan mention
   kepada orang yang sekiranya ikut bertanggung jawab untuk penyelesaian masalah issue tersebut
+
+---
+
+## Ada apa dengan Slack dan Chat Apps Lain ...
+
+- Sebelum adanya slack dan layanan chat room yang lain, semua informasi dan diskusi 
+  terkait dengan penyelesaian proyek di lakukan melalui issue sistem
+- Kembali lagi pada dasarnya chat room seharusnya menjadi alat untuk melakukan
+  diskusi secara santai, bukan dijadikan sebagai diskusi hingga berakhir kepada 
+  sebuah pengambilan keputusan dari sebuah masalah
+- Apabila hal ini dilakukan maka akan terasa sulit untuk melakukan tracking terhadap
+  keputusan yang di ambil pada saat itu, karena karakteristik dari chat tidak
+  mengakomodir sebagaimana karakteristik issue
 
 ---
 
