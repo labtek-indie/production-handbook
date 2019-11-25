@@ -5,14 +5,15 @@
   - [Getting Started](./in-depth-interview/README.md)
 - **Co Creation**
   - [Checklist QA](./co-creation/ceklist-qa-qc.md)
-  - [Interaksi Lead Researcher](./general-sop/interaksi-lead-client.md)
+  - [Interaksi Lead Researcher ke Client](./general-sop/interaksi-lead-client.md)
 - **Design Research**
   - [Cheklist QA](./design-research/ceklist-qa-qc.md)
-  - [Interaksi Lead Facilitator](./general-sop/interaksi-lead-client.md)
+  - [Interaksi Lead Facilitator ke Client](./general-sop/interaksi-lead-client.md)
 - **Techincal Analisis**
   - [Getting Started](./technical-analysis/README.md)
 - **Scrum Sprint**
   - [Getting Started](./scrum-sprint/README.md)
+  - [Interaksi Product Owner ke Client](./general-sop/interaksi-lead-client.md)
   - [Product Owner Guide](./scrum-sprint/product-owner-guide.md)
   - [Developer Guide](./scrum-sprint/developer-guide.md)
   - [Designer Guide](./scrum-sprint/designer-guide.md)
