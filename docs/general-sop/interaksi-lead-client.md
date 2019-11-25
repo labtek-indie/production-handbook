@@ -100,3 +100,6 @@ Pada saat presentasi kepada klien hal-hal yang wajib disampaikan adalah:
   - catat terlebih dahulu terkait hal-hal yang menjadikan sebuah acceptance kriteria belum sesuai
   - jangan membuat keputusan terlebih dahulu kepada client, usahakan semua kebijakan yang diambil 
     akan dikonsultasikan kepada konsultan labtek indie terlebih dahulu
+- Sebelum presentasi di tutup, sampaikan kembali terkait product backlog mana yang sudah di accept 
+  oleh client dan mana saja product backlog yang belum di accept sama client. Hal ini bertujuan 
+  untuk saling kroscek satu sama lain terkait ketercapaian proyek ini.
