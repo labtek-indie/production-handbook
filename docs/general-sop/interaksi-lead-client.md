@@ -11,7 +11,7 @@ Yang dimaksud dengan lead dalam hal ini:
 
 Panduan ini akan mencakup interaksi dalam beberapa fase, yakni sebagai berikut.
 
-### Awal Proyek
+## Awal Proyek
 
 Fase awal interaksi lead dengan klien, biasanya terjadi dalam kick-off meeting. Dalam kegiatan ini, 
 maka lead bisa memperkenalkan dirinya ke klien, mungkin ceritakan juga latar belakang pengalamannya. 
@@ -20,7 +20,7 @@ teknis. Ber-empati kepada klien akan sangat membantu dalam memahami project deng
 Bawakan diri secara profesional, dalam fase ini, pastikan bahwa seorang lead memang bisa menunjukkan 
 ke klien kalau dia adalah orang yang tepat untuk memimpin fase pekerjaan ini.
 
-### Sebelum Pelaksanaan Kegiatan Inti
+## Sebelum Pelaksanaan Kegiatan Inti
 
 Di tahap ini, biasanya klien, lead dan consultant sudah tergabung dalam grup WA. Jika belum, maka 
 silakan koordinasikan dengan  consultant. Gunakan grup ini untuk menjaga komunikasi yang transparan 
@@ -40,7 +40,7 @@ permintaan atau opini mereka dengan jujur dan transparan. Jika ada ekspektasi ya
 maka ceritakan alasan kenapa kita melakukan kegiatan ini dan kira-kira hasil apa yang bisa mereka 
 dapat serta bagaimana menurut lead, korelasi hasil dengan tujuan bisnis organisasi/produk mereka.
  
-### Saat Kegiatan
+## Saat Kegiatan
 
 **1. Lead researcher dan Lead Facilitator**
 
@@ -58,7 +58,7 @@ kepada klien. Komunikasi intensif ini mencakup:
   format yanh di buat oleh scrum master
 - mengkomunikasikan product backlog yang sekiranya masih jadi pertanyaan kepada klient
 
-### Usai Kegiatan
+## Usai Kegiatan
 
 **1. Lead researcher dan Lead Facilitator**
 
