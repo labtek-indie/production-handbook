@@ -50,3 +50,9 @@ Format di atas dijelasan pada point-point berikut ini:
 - **Short title**, menjelaskan nama job story secara singkat pada umumnya terdiri dari feature yang 
   di inginkan dan memiliki jumlah batas maksimum karakternya yakni sebesar 30 karakter.
 - **Deskripsi**, dituliskan dalam menggunakan format job story sehingga 
+- **Kebutuhan Fungsional**, menjelaskan fungsi apa saja yang harus ada pada story yang bersangkutan
+- **Field atau Informasi**, menjelaskan kebutuah field apa saja yang mungkin dibutuhkan. Informasi
+  ini bersifat opsional, namum apabila di jelaskan pada bagian ini akan memudahkan tim untuk melaku-
+  kukan pengerjaan.
+- **Link**, menjelaskan kebutuahan link yang sekiranya diperbukan, bersifat opsional
+- **Tombol Button**, menjelaskan kebutuhan tombol yang diperlukan. Bersifat opsional.
