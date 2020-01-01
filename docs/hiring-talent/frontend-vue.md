@@ -1,4 +1,4 @@
-## Frontend Web
+## Frontend React
 
 ## Once accepted you will:
 
@@ -17,9 +17,10 @@
 
 - Kompeten JavaScript
 - Kompeten CSS / Sass / Less
-- Memiliki pengalaman menggunakan library jQuery
+- Memiliki pengalaman menggunakan library Vue
 - Memiliki pengetahuan design tools seperti Figma / Adobe XD guna process slicing UI
 - Mampu melakukan slicing UI design ke dalam implementasi frontend development
+- Menggunakan storybook sebagai alat bantu dalam proses frontend development
 - Mampu bekerja menggunakan Git
 - Mampu menggunakan browser developer tools untuk melakukan debugging aplikasi
 - Mampu mengoptimalkan dan menggunakan css framework seperti Bootstrap / Foundation
