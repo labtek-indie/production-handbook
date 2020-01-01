@@ -1,4 +1,4 @@
-## Frontend Webu
+## Frontend Web
 
 ## Once accepted you will:
 
