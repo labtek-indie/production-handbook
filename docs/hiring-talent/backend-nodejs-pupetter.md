@@ -15,6 +15,7 @@
   sesuai dengan acceptance criteria
 - Memiliki pengalaman dan mampu melakukan integrasi aplikasi pihak ketiga dengan menggunakan API 
   seperti mail service, push notification service, payment gateway service, sms service
+- Mampu membuat tools dari Puppeteer untuk melakukan web crawling
 
 ## Nice to have
 
