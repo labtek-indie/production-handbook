@@ -110,7 +110,16 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
   tension kepada tim SDT untuk di selesaikan secara tepat waktu
 - Boleh juga klo mau spam foto di slack channel :-P
 
-## Checklist Scrum Master
+### Success Rate
+
+Merupakan laporan dalam bentuk tingkat pencapaian backlog yang di rencakanan pada saat melakukan sprint 
+planning meeting dengan penyelesaian pada saat scrum sprint berlangsung
+
+Laporan ini di dapat dengan membandingkan berapa banyak backlog/issue yang di sepakati diawal dengan
+berapa banyak backlog/issue yang di selesaikan. Laporan ini dapat dilihat secara otomatis pada gitlab
+milestone project apabila tim menggunakan gitlab issue sebagai tracking issue managementnya
+
+### Checklist Scrum Master
 
 - Memastikan semua tim hadir dan lengkap untuk menghadiri kick off meeting dan sprint planning meeting
   pada satu tempat.
@@ -119,7 +128,7 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 - Membuat ringkasan terkait jumlah product backlog yang nantinya akan di ambil dan mempostingnya di 
   slack channel sehingga seluruh tim tahu dan sadar terkait dengan plan yang sudah direncanakan
 
-## Checklist Product Owner
+### Checklist Product Owner
 
 - Menyampaikan product backlog kepada tim
 - Menerima laporan hasil meeting dari scrum master
