@@ -15,7 +15,7 @@
   },
   "homepage": "https://gitlab.com/knods/handbook#readme",
   "devDependencies": {
-    "docpress": "0.8.0",
+    "docpress": "0.8.1",
     "markdown-it-task-lists": "^2.1.1"
   }
 }
