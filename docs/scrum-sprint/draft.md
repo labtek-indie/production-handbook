@@ -8,9 +8,11 @@
 
 ## Flow
 
-- Open : ini merupakan issue yang ditulis oleh PO
+- Open : 
+  - ini merupakan issue yang ditulis oleh PO
 - Todo : 
   - SM memastikan antrian todo maksimal 5-6 task dalam satu board list
+  - SM melakukan assignment terhadap antrian todo yang di masukkan
 - Doing : 
   - developer silahkan mengambil task yang berada pada TODO 
   - apabila saat ini sedang mengerjakan ke DOING dan 
