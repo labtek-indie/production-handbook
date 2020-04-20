@@ -3,67 +3,22 @@
 Merupakan kegiatan untuk menyusun perencanaan sebelum melaksanakan proses development baik itu design
 sprint maupun scrum sprint.
 
-## Kick off Meeting
-
-Merupakan kegiatan yang dilakukan sebelum sprint planning meeting dengan tujuan untuk sebagai temu
-awal masing-masing tim
-
-**Waktu**
-
-- 1 hari sebelum pelaksanaan scrum planning meeting
-
-**Bahan**
-
-- Product backlog yang akan di lakukan proses development
-
-**Peserta**
-
-- Product Owner
-- Scrum Master
-- Scrum Development Team
-
-**Agenda**
-
-- 15 menit : Perkenalan tim SDT secara tatap muka
-- 1 jam    : Penjelasan product backlog dari Product Owner kepada Scrum Development Team
-- 1 jam    : Diskusi dan tanya jawab terkait product backlog 
-
-Dalam sesi ini tidak ada agenda untuk melakukan proses bergaining dan negosiasi terkait dengan 
-jumlah product backlog yang ingin dicapai oleh Product Owner, lakukan proses negosiasi pada saat 
-Scrum Planning Meeting
-
-**Tujuan**
-
-- Temu awal dengan seluruh tim yang nantinya akan mengerjakan
-- Tim memiliki gambaran yang lebih dalam terkait dengan apa yang nantinya akan dikerjakan sebelum
-  kegiatan Sprint Planning Meeting dilakukan
-- Masih memiliki cukup waktu untuk memikirkan task apa saja yang nantinya akan dikerjakan untuk
-  masing-masing job storynya
-- Memiliki pemikiran estimasi waktu untuk job story yang nantinya akan di ambil
-
-**Artefact**
-
-- Tidak ada artefact untuk kegiatan kick off meeting
-- Boleh juga klo mau spam foto di slack channel :-P
-
-## Sprint Planning Meeting
-
-**Waktu**
+## Waktu
 
 - 1 hari sebelum proses scrum sprint atau design sprint dengan durasi 3 jam
 
-**Bahan**
+## Bahan
 
 - Product backlog yang akan di lakukan proses development
 
-**Peserta**
+## Peserta
 
 - Product Owner
 - Scrum Master
 - Scrum Development Team
 - QA / QC Labtek Indie
 
-**Agenda**
+## Agenda
 
 Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 
@@ -85,13 +40,13 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 
 ![Estimasi Kasar](./assets/spm-estimasi-kasar.png)
 
-**Estimasi Kasar**
+## Estimasi Kasar
 
 - Pada saat melakukan kegiatan estimasi waktu pengerjaan, estimas di kelompokkan sesuai dengan role 
   masing-masing dalam hal ini (UX, UI, Frontend, Backend)
 - Dapat menggunakan excel atau menggunakan airtable project
 
-**Negosiasi Product Backlog**
+## Negosiasi Product Backlog
 
 - Gunakan data estimasi kasar tersebut untuk melakukan estimasi terkait dengan product backlog yang 
   akan dikerjakan selama sprint yang nantinya dikerjakan
@@ -99,7 +54,7 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 - Masing-masing individu memiliki kontrak jam kerja minimal 5 (lima) jam untuk setiap harinya selama 
   proses scrum berlangsung
 
-**Artefact**
+## Artefact
 
 - Terdapat estimasi pengerjaan pada masing-masing job story per role (UI, UX, Frontend, Backend)
 - Terdapat estimasi total pengerjain pada masing-masing job story
@@ -110,7 +65,7 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
   tension kepada tim SDT untuk di selesaikan secara tepat waktu
 - Boleh juga klo mau spam foto di slack channel :-P
 
-### Success Rate
+## Success Rate
 
 Merupakan laporan dalam bentuk tingkat pencapaian backlog yang di rencakanan pada saat melakukan sprint 
 planning meeting dengan penyelesaian pada saat scrum sprint berlangsung
@@ -119,7 +74,7 @@ Laporan ini di dapat dengan membandingkan berapa banyak backlog/issue yang di se
 berapa banyak backlog/issue yang di selesaikan. Laporan ini dapat dilihat secara otomatis pada gitlab
 milestone project apabila tim menggunakan gitlab issue sebagai tracking issue managementnya
 
-### Checklist Scrum Master
+## Checklist Scrum Master
 
 - Memastikan semua tim hadir dan lengkap untuk menghadiri kick off meeting dan sprint planning meeting
   pada satu tempat.
@@ -128,7 +83,7 @@ milestone project apabila tim menggunakan gitlab issue sebagai tracking issue ma
 - Membuat ringkasan terkait jumlah product backlog yang nantinya akan di ambil dan mempostingnya di 
   slack channel sehingga seluruh tim tahu dan sadar terkait dengan plan yang sudah direncanakan
 
-### Checklist Product Owner
+## Checklist Product Owner
 
 - Menyampaikan product backlog kepada tim
 - Menerima laporan hasil meeting dari scrum master

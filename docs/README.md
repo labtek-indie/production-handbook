@@ -1,6 +1,8 @@
 # Table of contents
 
 - [**HANDBOOK**](../README.md)
+- **General**
+  - Job Story, Acceptance Criteria dan Ticketing
 - **Ind Depth Interview**
   - [Getting Started](./in-depth-interview/README.md)
 - **Co Creation**
@@ -13,10 +15,7 @@
   - [Getting Started](./technical-analysis/README.md)
 - **Scrum Sprint**
   - [Getting Started](./scrum-sprint/README.md)
-  - [Interaksi Product Owner ke Client](./general-sop/interaksi-lead-client.md)
-  - [Product Owner Guide](./scrum-sprint/product-owner-guide.md)
-  - [Developer Guide](./scrum-sprint/developer-guide.md)
-  - [Designer Guide](./scrum-sprint/designer-guide.md)
+  - [Kick Off Meeting](./scrum-sprint/kickoffmeeting.md)
   - [Sprint Planning Meeting](./scrum-sprint/sprint-planning-meeting.md)
   - [Daily Scrum](./scrum-sprint/daily-scrum.md)
   - [Sprint Review Meeting](./scrum-sprint/sprint-review-meeting.md)

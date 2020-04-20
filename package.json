@@ -14,6 +14,9 @@
     "url": "https://gitlab.com/knods/handbook/issues"
   },
   "homepage": "https://gitlab.com/knods/handbook#readme",
+  "scripts": {
+    "serve": "docpress ./docs"
+  },
   "devDependencies": {
     "docpress": "0.8.1",
     "markdown-it-task-lists": "^2.1.1"
