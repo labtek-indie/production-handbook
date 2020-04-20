@@ -9,6 +9,8 @@ sprint maupun scrum sprint.
 
 ## Bahan
 
+- User journey/flow chart sistem yang ada dalam gambararan PIC / Product Owner sehingga nantinya memudahkan tim 
+  development menyusun roadmap strategi development
 - Product backlog yang akan di lakukan proses development
 
 ## Peserta
