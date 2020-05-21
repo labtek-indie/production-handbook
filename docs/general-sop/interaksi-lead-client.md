@@ -83,6 +83,16 @@ klient. Untuk itu sebelum presentasi, product owner harus memastikan :
     klikable
 - mencatat mana saja product backlog yang sudah selsai dan mana saja yang belum
 
+Kelengkapan dokumen yang perlu dipersiapkan pada saat melakukan presentasi
+
+- [ ] Dokumen Minutes off Meeting Kick Off Meeting client. Mekanisme kick off meeting dan dokumen bisa dilihat pada 
+bagian [kick off meeting client](../scrum-sprint/kickoffmeeting-client.md)
+- [ ] Dokumen Minutes off Meeting Sprint Planning Meeting. Mekanisme sprint planning meeting dan dokumen bisa dilihat 
+pada bagian [kick off meeting internal](../scrum-sprint/kickoffmeeting-internal.md)
+- [ ] Dokumen Berita Acara Retrospektif Meeting. Mintalah dokumen ini kepada scrum master, dengan format seperti ini 
+[Dokumen BASR](https://docs.google.com/document/d/1vHlGLw88ateEeP41mcWdbFFw-ig7YlfKLnlCL2Atrm4/edit?usp=sharing)
+- [ ] Screenshoot terkahir burndown chart
+
 Pada saat presentasi kepada klien hal-hal yang wajib disampaikan adalah:
 
 - Burndown chart selama proses development, ceritakan progress development 
@@ -103,3 +113,15 @@ Pada saat presentasi kepada klien hal-hal yang wajib disampaikan adalah:
 - Sebelum presentasi di tutup, sampaikan kembali terkait product backlog mana yang sudah di accept 
   oleh client dan mana saja product backlog yang belum di accept sama client. Hal ini bertujuan 
   untuk saling kroscek satu sama lain terkait ketercapaian proyek ini.
+
+Kelengkapan dokumen setelah presentasi, yang perlu dipersiapkan
+
+- [ ] Dokumen Minutes off Meeting Presentasi, format laporan meeting menggunakan template seperti minutes off meeting
+  sebelumnya
+- [ ] Dokumen Berita Acara Pemeriksanaan Pekerjaan (BAPP), format bisa dilihat di [format BAPP](https://docs.google.com/document/d/1xdSmqomAXvrpUUXsIMwWJoeP47KcQlHCKCT5My8JF_M/edit?usp=sharing)
+- [ ] Dokumen Berita Acara Serah Terima Pekerjaan (BAST),
+  - format bisa didownload di [format BAST](https://docs.google.com/document/d/1XKP3plM0_-xFZX7d8JIuNgf6MgiS67bpdXrXyf-oGsc/edit?usp=sharing)
+  - apabila client memiliki format BAST tersendiri maka, dokumen BAST tersebut menggunakan format yang sudah disediakan 
+    oleh client
+
+Seluruh dokumen yang telah dibuat di kirim ke client sebagai bentuk pertanggungjawaban melalui email cc production@labtekindie.com 

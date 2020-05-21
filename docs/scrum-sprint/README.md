@@ -13,7 +13,8 @@ apa tidak, dengan metode seperti ini kita bisa:
 
 Detail untuk masing-masing kegiatan bisa dilihat pada link berikut ini:
 
-* [Kick Off Meeting](kickoffmeeting.md)
+* [Kick Off Meeting Client](kickoffmeeting-client.md)
+* [Kick Off Meeting Internal](kickoffmeeting-internal.md)
 * [Sprint Planning](sprint-planning-meeting.md)
 * [Daily Scrum](daily-scrum.md)
 * [Daily Scrum](daily-scrum.md)
