@@ -39,6 +39,8 @@ Berikut ini adalah contoh kegiatan yang bisa dijadikan acuan untuk melakukan kic
 
 ## Artefak
 
+Product owner membuat dan melakukan:
+
 - Dokumen notulen rapat dengan client, template dokumen bisa di download pada link https://docs.google.com/document/d/11693Gh_Aou92ifVJJrda0p34v9n1d5UdaRM9-iX3rkM/edit?usp=sharing
 - Dokumen notulen rapat ini wajib disusun setelah kick off meeting selesai paling lambat 1 (hari) setelah kegiatan 
   selesai dilakukan

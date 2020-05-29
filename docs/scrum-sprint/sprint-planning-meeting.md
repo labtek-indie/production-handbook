@@ -58,6 +58,8 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 
 ## Artefact
 
+Scrum Master Memastikan :
+
 - Terdapat estimasi pengerjaan pada masing-masing job story per role (UI, UX, Frontend, Backend)
 - Terdapat estimasi total pengerjain pada masing-masing job story
 - Terdapat job story yang akan dikerjakan selama sprint yang nantinya akan dilakukan
@@ -66,6 +68,14 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
   waktu 2 (dua) hari kedepan sudah terdapat 2 job story yang sudah selesai maka itu menjadi sebuah 
   tension kepada tim SDT untuk di selesaikan secara tepat waktu
 - Boleh juga klo mau spam foto di slack channel :-P
+
+Product owner dibantu oleh Scrum Master untuk membuat dan melakukan:
+
+- Dokumen notulen rapat dengan client, template dokumen bisa di download pada link https://docs.google.com/document/d/11693Gh_Aou92ifVJJrda0p34v9n1d5UdaRM9-iX3rkM/edit?usp=sharing
+- Dokumen notulen rapat ini wajib disusun setelah kick off meeting selesai paling lambat 1 (hari) setelah kegiatan 
+  selesai dilakukan
+- Dokumen dikirim ke email client dengan tembusan production@labtekindie.com serta melampirkan rekaman audio kegiatan 
+  meeting
 
 ## Success Rate
 
