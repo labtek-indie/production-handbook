@@ -36,6 +36,7 @@ Detail untuk masing-masing kegiatan bisa dilihat pada link berikut ini:
   apa yang menyebabkan kendalan tersebut untuk dicatat dan disampaikan kepada client
 - Melakukan meeting dengan client terkait dengan apa yang sudah dicapai dalam tengah sprint guna untuk melakukan penyamaan 
   ekspektasi kembali dengan bahan point di atas tadi
+- Lebih lengkap untuk presentasi client dan tata caranya bisa dilihat di [presentasi client](../general-sop/interaksi-lead-client.md)
 
 ## Scrum Master
 
@@ -98,6 +99,11 @@ memiliki peran penting untuk melakukan solving problem.
 
 ## Tips
 
+- Sisa waktu yang terdapat setelah pelaksanaan SPM dapat digunakan untuk melakukan koordinasi terkait dengan plan 
+  untuk pengerjaan projek seperti apa, dengan melakukan kegiatan sebagai berikut:
+  - secara bersama-sama membuat user journey/flow chart kasar tentang tata cara mekanisme sistem bekerja
+  - melakukan validasi terkait dengan user journey tersebut secara bersama-sama
+  - menuangkan user journey tersebut dalam dokumen yang nantinya dijadikan sebagai acuan bersama
 - Untuk scrum tim, apabila sudah menemui jalan buntu. Maksimal untuk mencari solusi pribadi adalah 1 (satu) jam, apabila
   sudah mencari dan tidak menemukan solusinya harap segera berkabar ke slack
 - Jangan hanya menunggu daily standup untuk saling berkomunikasi, gunakan waktu sebelum daily standup untuk saling
@@ -105,28 +111,29 @@ memiliki peran penting untuk melakukan solving problem.
 - Apabila ada product backlog yang masing kurang jelas, langsung saja tanya ke tim maupun ke product owner
 - Terkait dengan teknologi/tool yang dipakai, usahakan untuk melakukan diskusi kepada tim
 
+Khusus Design Sprint:
+
+- Di hari pertama semua orang dalam tim wajib :
+  - melakukan kerja bersama-sama dengan waktu maksimal sesuai waktu daily scrum
+  - melakukan co creation kecil-kecilan untuk membuat UX dari user journey yang sudah dibuat
+  - product owner memberikan panduan dan arahan terkait ketercapaiannya UX di proses ini sehingga bisa digunakan untuk 
+    daily scrum berikutnya
+  - role UI sangat dianjurkan untuk membantu role UX dalam pembuatan UX prototipe dengan arahan role UX tentunya
+  - developer memberikan saran dan masukan terkait dengan UX yang dibuat apakah dimungkinkan untuk dilakukan implementasi
+    apa tidak
+  - harapannya UX design itu sudah selesai semua di hari pertama
+- Di hari kedua dan seterusnya
+  - role UX sangat dianjurkan untuk membantu role UI dalam melakukan design UI dengan arahan role UI, tentunya kalau 
+    pekerjaan UX sudah selesai dikerjakan
+- Jangan jadikan role sebagai limitasi kamu untuk belajar diluar role yang saat ini kamu dapatkan
+- Jadikan project ini sebagai cara untuk meningkatkan kepercayaan tim terhadap kamu, karena di akhir project akan ada
+  feedback dari masing-masing individu terhadap pekerjaan kamu selama project ini berlangsung.
+
+> Kata Labtek Indie
+> 
+> Project ini adalah projet tim bukan project perorangan, maka sukses dan tidaknya project ini tergantung dari kekompakan kamu 
+> dan tim kamu untuk secara bersama-sama
+
 ## Mekanisme Development
 
 - Silahkan di bahas oleh scrum tim
-
-
-<!-- 
-## Gambaran Umum Proses kerja
-
-Pelaksanaan scrum di Labtek Indie secara garis besar dapat dilihat pada gambar dibawah ini:
-
-![Overview Sprint Framework](./assets/overview.jpeg)
-
-* [Kick Off dan Sprint Planning](sprint-planning-meeting.md)
-* [Daily Scrum](daily-scrum.md)
-* [Daily Scrum](daily-scrum.md)
-* [Sprint Review Meeting](sprint-review-meeting.md)
-* [Restrospective Meeting](retrospective-meeting.md)
-
-
-Draft
-
-- Komunikasi
-- Sadar Diri
-- Kolaborasi
-- Validasi -->

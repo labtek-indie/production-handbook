@@ -85,13 +85,12 @@ klient. Untuk itu sebelum presentasi, product owner harus memastikan :
 
 Kelengkapan dokumen yang perlu dipersiapkan pada saat melakukan presentasi
 
-- [ ] Dokumen Minutes off Meeting Kick Off Meeting client. Mekanisme kick off meeting dan dokumen bisa dilihat pada 
+- Dokumen Minutes off Meeting Kick Off Meeting client. Mekanisme kick off meeting dan dokumen bisa dilihat pada 
 bagian [kick off meeting client](../scrum-sprint/kickoffmeeting-client.md)
-- [ ] Dokumen Minutes off Meeting Sprint Planning Meeting. Mekanisme sprint planning meeting dan dokumen bisa dilihat 
+- Dokumen Minutes off Meeting Sprint Planning Meeting. Mekanisme sprint planning meeting dan dokumen bisa dilihat 
 pada bagian [kick off meeting internal](../scrum-sprint/kickoffmeeting-internal.md)
-- [ ] Dokumen Berita Acara Retrospektif Meeting. Mintalah dokumen ini kepada scrum master, dengan format seperti ini 
+- Dokumen Berita Acara Retrospektif Meeting. Mintalah dokumen ini kepada scrum master, dengan format seperti ini 
 [Dokumen BASR](https://docs.google.com/document/d/1vHlGLw88ateEeP41mcWdbFFw-ig7YlfKLnlCL2Atrm4/edit?usp=sharing)
-- [ ] Screenshoot terkahir burndown chart
 
 Pada saat presentasi kepada klien hal-hal yang wajib disampaikan adalah:
 
@@ -113,6 +112,8 @@ Pada saat presentasi kepada klien hal-hal yang wajib disampaikan adalah:
 - Sebelum presentasi di tutup, sampaikan kembali terkait product backlog mana yang sudah di accept 
   oleh client dan mana saja product backlog yang belum di accept sama client. Hal ini bertujuan 
   untuk saling kroscek satu sama lain terkait ketercapaian proyek ini.
+
+## Artefak
 
 Kelengkapan dokumen setelah presentasi, yang perlu dipersiapkan
 

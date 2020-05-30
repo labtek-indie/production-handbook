@@ -56,6 +56,33 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 - Masing-masing individu memiliki kontrak jam kerja minimal 5 (lima) jam untuk setiap harinya selama 
   proses scrum berlangsung
 
+## Success Rate
+
+Merupakan laporan dalam bentuk tingkat pencapaian backlog yang di rencakanan pada saat melakukan sprint 
+planning meeting dengan penyelesaian pada saat scrum sprint berlangsung
+
+Laporan ini di dapat dengan membandingkan berapa banyak backlog/issue yang di sepakati diawal dengan
+berapa banyak backlog/issue yang di selesaikan. Laporan ini dapat dilihat secara otomatis pada gitlab
+milestone project apabila tim menggunakan gitlab issue sebagai tracking issue managementnya
+
+## Checklist 
+
+### Scrum Master
+
+- Memastikan semua tim hadir dan lengkap untuk menghadiri kick off meeting dan sprint planning meeting
+  pada satu tempat.
+- Memastikan kegiatan kick off meeting dan sprint planning meeting berjalan sesuai dengan standar
+  ketentuan ini
+- Membuat ringkasan terkait jumlah product backlog yang nantinya akan di ambil dan mempostingnya di 
+  slack channel sehingga seluruh tim tahu dan sadar terkait dengan plan yang sudah direncanakan
+
+### Checklist Product Owner
+
+- Menyampaikan product backlog kepada tim
+- Menerima laporan hasil meeting dari scrum master
+- Menginformasikan hasil meeting kepada client terkait jumlah product backlog yang di ambil sesuai
+  dengan laporan dari scrum master
+
 ## Artefact
 
 Scrum Master Memastikan :
@@ -69,35 +96,11 @@ Scrum Master Memastikan :
   tension kepada tim SDT untuk di selesaikan secara tepat waktu
 - Boleh juga klo mau spam foto di slack channel :-P
 
-Product owner dibantu oleh Scrum Master untuk membuat dan melakukan:
+Product owner dibantu oleh Scrum Master untuk:
 
-- Dokumen notulen rapat dengan client, template dokumen bisa di download pada link https://docs.google.com/document/d/11693Gh_Aou92ifVJJrda0p34v9n1d5UdaRM9-iX3rkM/edit?usp=sharing
+- Membuat dokumen notulen rapat, template dokumen bisa di download pada link https://docs.google.com/document/d/11693Gh_Aou92ifVJJrda0p34v9n1d5UdaRM9-iX3rkM/edit?usp=sharing
 - Dokumen notulen rapat ini wajib disusun setelah kick off meeting selesai paling lambat 1 (hari) setelah kegiatan 
   selesai dilakukan
 - Dokumen dikirim ke email client dengan tembusan production@labtekindie.com serta melampirkan rekaman audio kegiatan 
   meeting
-
-## Success Rate
-
-Merupakan laporan dalam bentuk tingkat pencapaian backlog yang di rencakanan pada saat melakukan sprint 
-planning meeting dengan penyelesaian pada saat scrum sprint berlangsung
-
-Laporan ini di dapat dengan membandingkan berapa banyak backlog/issue yang di sepakati diawal dengan
-berapa banyak backlog/issue yang di selesaikan. Laporan ini dapat dilihat secara otomatis pada gitlab
-milestone project apabila tim menggunakan gitlab issue sebagai tracking issue managementnya
-
-## Checklist Scrum Master
-
-- Memastikan semua tim hadir dan lengkap untuk menghadiri kick off meeting dan sprint planning meeting
-  pada satu tempat.
-- Memastikan kegiatan kick off meeting dan sprint planning meeting berjalan sesuai dengan standar
-  ketentuan ini
-- Membuat ringkasan terkait jumlah product backlog yang nantinya akan di ambil dan mempostingnya di 
-  slack channel sehingga seluruh tim tahu dan sadar terkait dengan plan yang sudah direncanakan
-
-## Checklist Product Owner
-
-- Menyampaikan product backlog kepada tim
-- Menerima laporan hasil meeting dari scrum master
-- Menginformasikan hasil meeting kepada client terkait jumlah product backlog yang di ambil sesuai
-  dengan laporan dari scrum master
+- Notulen rapat di tanda tangani dan dikirimkan oleh product owner
