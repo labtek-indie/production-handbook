@@ -1,8 +1,0 @@
-{
-  "gitlab": "knods/handbook",
-  "markdown": {
-    "plugins": {
-      "decorate": {}
-    }
-  }
-}
