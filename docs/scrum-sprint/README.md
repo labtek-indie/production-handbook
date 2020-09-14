@@ -91,7 +91,9 @@ Detail untuk masing-masing kegiatan bisa dilihat pada link berikut ini:
 - mengawali kegiatan dengan melakukan :
   - checkin untuk masing-masing invidu, agar dapat mencairkan suasana
   - check apakah kanban product backlog sudah terupdate
-- akan ada dokumen yang perlu dilengkapi setelah sprint berlangsung dengan mengacu https://docs.google.com/document/d/1vHlGLw88ateEeP41mcWdbFFw-ig7YlfKLnlCL2Atrm4/edit?usp=sharing
+- akan ada dokumen yang perlu dilengkapi setelah sprint berlangsung dengan mengacu 
+  https://docs.google.com/document/d/1vHlGLw88ateEeP41mcWdbFFw-ig7YlfKLnlCL2Atrm4/edit?usp=sharing
+- tolong buatkan event di google calendar untuk pelaksanaan daily standupnya
 
 ## Flow Kanban
 
