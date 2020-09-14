@@ -1,6 +1,16 @@
 # Getting Started
 
-## Scrum Sprint Overview
+Berikut ini merupakan panduan umum untuk pelaksanaan scrum sprint di Labtek Indie.
+Karena topik-topik pelaksanaan dalam kegiatan scrum sprint sangatlah luas,  maka 
+untuk di dokumen ini hanya menjelaskan proses secara umum, sedangkan untuk detail
+di masing-masing phase dapat dilihat sesuai dengan bahan dibawah ini.
+
+## Cara Kerja dan Target Kerja
+
+### Cara Kerja
+
+Dalam melakukan proses development kita menganut metodologi scrum seperti yang
+tergambar pada bagan dibawah ini
 
 ![Scrum Overview](./assets/overview-2.png)
 
@@ -11,6 +21,33 @@ apa tidak, dengan metode seperti ini kita bisa:
 - melakukan kroscek di tengah sprint terkait dengan kualitas produk yang dihasilkan
 - masih ada waktu untuk perbaikan di tengah sprint apabila dalam daily review tersebut masih terdapat ketidak sesuaian
 
+Sehingga dari bagan tersebut akan:
+
+- Setiap individual yang tergabung dalam tim wajib :
+  - mengikuti proses dimulai dari awal hingga akhir
+  - menjalankan pekerjaan-pekerjaan yang didefinisikan bersama oleh anggota tim 
+    sesuai dengan keahliannya, namun tidak terbatas hanya pada keahlian tersebut
+  - dapat membantu pekerjaan role lain apabila dibutuhkan (bersifat cross functional);
+- Mengerjakan tugas sesuai dengan backlog, acceptance critera atau design yang 
+  sudah tersedia (tidak lebih dan tidak kurang)
+- Melakukan daily scrum minimal 5 (lima) jam per hari dengan cara melaporkan 
+  hasil pekerjaan kepada scrum master untuk dicatat dalam laporan working hours
+  nantinya
+- Mengikuti checkin di tengah hari guna untuk saling berkomunikasi antar masing-masing indidu.
+  Komunikasi dalam hal ini bisa tanya soal kendala, update progress dan lain-lain yang berkaitan 
+  dengan proses development. Untuk pelaksanaan checkin kami rekomendasikan di jam 12.00 - 13.00,
+  namun apabila dirasa tidak cocok silahkan di diskusikan pada sprint planning meeting nanti
+- Mengikuti daily standup sesuai dengan jadwal yang sudah disepakati secara tepat
+  waktu, apabila telat, berhalangan hadir wajib memberitahukan hal tersebut melalui
+  scrum master paling telah 3 (tiga) jam sebelum pelaksanaan daily standup
+- Mengikuti daily review untuk mendemokan apa yang telah dikerjakan kepada seluruh individual
+- Dalam hal proses pengerjaan apabila mengalami jalan buntu:
+  - tolong di timer untuk mencari solusi maksimal 1 (satu) jam
+  - apabila tidak menemukan solusi segera informasikan kepada scrum master 
+    melalui slack channel
+  - scrum master akan memfasilitasi dan mencarikan solusi terkait 
+- Apabila diperlukan dapat berkoordinasi dengan klien.
+
 Detail untuk masing-masing kegiatan bisa dilihat pada link berikut ini:
 
 * [Kick Off Meeting Client](kickoffmeeting-client.md)
@@ -20,6 +57,13 @@ Detail untuk masing-masing kegiatan bisa dilihat pada link berikut ini:
 * [Daily Scrum](daily-scrum.md)
 * [Sprint Review Meeting](sprint-review-meeting.md)
 * [Restrospective Meeting](retrospective-meeting.md)
+
+### Target Kerja
+
+- Dengan melakukan SPM (Sprin Plannning Meeting) kita membuat target kerja selama
+  1 (satu) sprint kedepan
+- Mohon untuk fokus dalam kegiatan SPM, apabila dirasa ada backlog, acceptance criteria, flow
+  maupun design yang kurang jelas silahkan ditanyakan kembali kepada product owner
 
 ## Product Owner
 
@@ -41,10 +85,12 @@ Detail untuk masing-masing kegiatan bisa dilihat pada link berikut ini:
 ## Scrum Master
 
 - untuk memandu pelaksanaan SPM sesuai dengan yang ada di handbook
-- diperjelas dan di pertegas untuk pendistribusian dan tim yang mengerjakan
+- awasi pendistribusian backlog dan tim yang mengerjakan
 - sedapat mungkin untuk segera memfasilitasi mencari solusi pada saat melakukan daily standup
 - sebelum memulai daily standup, tolong melakukan check ketersediaan scrum development tim apakah sudah lengkap
-- mengawali kegiatan dengan melakukan checkin untuk masing-masing invidu, agar dapat mencairkan suasana
+- mengawali kegiatan dengan melakukan :
+  - checkin untuk masing-masing invidu, agar dapat mencairkan suasana
+  - check apakah kanban product backlog sudah terupdate
 - akan ada dokumen yang perlu dilengkapi setelah sprint berlangsung dengan mengacu https://docs.google.com/document/d/1vHlGLw88ateEeP41mcWdbFFw-ig7YlfKLnlCL2Atrm4/edit?usp=sharing
 
 ## Flow Kanban
@@ -92,10 +138,6 @@ memiliki peran penting untuk melakukan solving problem.
 - Apabila ada kendala terkait pengerjaan langsung saja lempar pertanyaan di slack, dan tolong usahakan
   mention ke orang yang ingin anda ajak berbicara
 - Tolong scrum master selalui aware terkait dengan pertanyaan yang mungkin tertelan
-- Sebisa mungkin datanglah tepat waktu sesuai dengan kesepekatan bersama, apabila berhalangan untuk 
-  tidak tepat waktu maka sebisa mungkin untuk menginformasikan keterlambatannya kepada scrum master
-  karena ini sangat merugikan orang lain karena harus menunggu kehadiran orang yang pada telat dengan batas waktu 
-  3 jam sebelum pelaksanaan daily standup
 
 ## Tips
 
@@ -104,11 +146,8 @@ memiliki peran penting untuk melakukan solving problem.
   - secara bersama-sama membuat user journey/flow chart kasar tentang tata cara mekanisme sistem bekerja
   - melakukan validasi terkait dengan user journey tersebut secara bersama-sama
   - menuangkan user journey tersebut dalam dokumen yang nantinya dijadikan sebagai acuan bersama
-- Untuk scrum tim, apabila sudah menemui jalan buntu. Maksimal untuk mencari solusi pribadi adalah 1 (satu) jam, apabila
-  sudah mencari dan tidak menemukan solusinya harap segera berkabar ke slack
 - Jangan hanya menunggu daily standup untuk saling berkomunikasi, gunakan waktu sebelum daily standup untuk saling
   berkomunikasi dan bertukar pikiran
-- Apabila ada product backlog yang masing kurang jelas, langsung saja tanya ke tim maupun ke product owner
 - Terkait dengan teknologi/tool yang dipakai, usahakan untuk melakukan diskusi kepada tim
 
 Khusus Design Sprint:
