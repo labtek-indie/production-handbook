@@ -25,6 +25,7 @@ sprint maupun scrum sprint.
 Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 
 - 30 menit Brief awal dari tim QA/QC
+- 15 menit hightlight kembali goal sprint yang berasal dari kick off meeting
 - 60 menit penyampaian product backlog yang nantinya akan dikerjakan oleh **product owner**, apabila 
   diperlukan SDT dapat menggunakan alokasi waktu untuk menanyakan lebih detauk terkait dengan 
   product backlog.
@@ -37,8 +38,9 @@ Yang dilakukan pada sprint planning meting tergambar pada skema berikut ini:
 - 45 menit untuk melakukan dikusi teknis mekanisme pengerjaan oleh tim yang bisa digunakan untuk
   - membuat sitemap dan flow aplikiasi secara keseluruhan dalam bentuk low fidelity prototype sebagai
     panduan kasar untuk setiap orang yang nantinya
-  - menentukan tools dan software yang nantinya digunakan
+  - menentukan metode/teknis, tools dan software yang nantinya digunakan
   - menentukan plan dalam job story yang nantinya akan di deliver per harinya
+  - capaian metriks
 
 ![Estimasi Kasar](./assets/spm-estimasi-kasar.png)
 
@@ -98,7 +100,7 @@ Scrum Master Memastikan :
 
 Product owner dibantu oleh Scrum Master untuk:
 
-- Membuat dokumen notulen rapat, template dokumen bisa di download pada link https://docs.google.com/document/d/11693Gh_Aou92ifVJJrda0p34v9n1d5UdaRM9-iX3rkM/edit?usp=sharing
+- Membuat dokumen notulen rapat, template dokumen bisa di download pada link https://docs.google.com/document/d/1EJ4I0NveqQrO2NqP7RgjRRNeBO6z_P7ZdeWm_NSOvyY/edit?usp=sharing
 - Dokumen notulen rapat ini wajib disusun setelah kick off meeting selesai paling lambat 1 (hari) setelah kegiatan 
   selesai dilakukan
 - Dokumen dikirim ke email client dengan tembusan production@labtekindie.com serta melampirkan rekaman audio kegiatan 
